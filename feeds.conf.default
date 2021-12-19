@@ -7,7 +7,13 @@ src-git telephony https://git.openwrt.org/feed/telephony.git;openwrt-21.02
 src-git handsomefeed https://github.com/HandsomeMod/handsomefeed.git
 
 # Lean Feeds
-src-git extra https://github.com/HandsomeMod/extra.git
+src-git extra https://github.com/mikejing506/extra.git
 
 # Xorg Feeds (WIP)
 src-git xorg https://github.com/HandsomeMod/xorg.git
+
+#helloWorld
+src-git helloworld https://github.com/fw816/helloworld.gi
+
+#helloWorld
+src-git helloworld https://github.com/fw816/helloworld.git
