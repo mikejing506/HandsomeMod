@@ -13,4 +13,4 @@ src-git extra https://github.com/mikejing506/extra.git
 src-git xorg https://github.com/HandsomeMod/xorg.git
 
 #helloWorld
-src-git helloworld https://github.com/fw816/helloworld.git
+src-git helloworld https://github.com/fw876/helloworld.git
